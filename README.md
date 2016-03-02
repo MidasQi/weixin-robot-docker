@@ -8,3 +8,4 @@
 1. 运行环境：Ubuntu 14.04并安装好docker
 2. 系统需求：512M内存以上配置
 3. Docker image托管在阿里云杭州，用阿里云杭州地域的ECS启动会更快。
+4. [运行Log](https://github.com/wuhx/weixin-robot-docker/blob/master/conf/weixin-robot.log)
